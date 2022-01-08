@@ -67,4 +67,4 @@ The purpose of this project is to complete a course final project, but it may gi
 
    * tqdm 4.62.3
 
-5. I drew the two geographic visualization under the geopandas environment. Except them, I complete all other codes under the base environment.
+5. I did the two geographic visualization under the geopandas environment. Except them, I completed all other codes under the base environment.
